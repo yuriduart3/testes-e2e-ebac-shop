@@ -7,7 +7,7 @@ context('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
         Fazendo a escolha dos produtos
         Adicionando ao carrinho
         Preenchendo todas opções no checkout
-        E validando minha compra ao final */
+        E validando minha compra ao final alteração */
 
     beforeEach(() => {
         cy.visit('/')
